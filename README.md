@@ -2,6 +2,8 @@
 
 **Should an e-commerce site replace its landing page?** This repo is a complete experiment read-out: data checks, power analysis, the result with a confidence interval, a segment check, and a decision taken from rules written *before* the result was read.
 
+**Run it on Kaggle:** [AB Test Read-out: Power, CI and Decision Rules](https://www.kaggle.com/code/timachan/ab-test-read-out-power-ci-and-decision-rules)
+
 ![Cumulative lift](figures/cumulative_lift.png)
 
 ## Problem
